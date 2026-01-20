@@ -19,10 +19,9 @@ header_pages:
   - skills.md
   - contact.md
 
-# Social links (optional - uncomment and fill in if desired)
-# twitter_username: your_twitter
-# github_username: oth45
-# linkedin_username: your_linkedin
+# Social links
+github_username: oth45
+linkedin_username: othmanerouyani
 
 # Build settings
 markdown: kramdown

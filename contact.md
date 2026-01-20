@@ -25,7 +25,7 @@ Feel free to reach out via email for professional inquiries:
 ## Connect With Me
 
 ### Professional Networks
-- **LinkedIn:** *(Add your LinkedIn profile)*
+- **LinkedIn:** [Othmane Rouyani](https://www.linkedin.com/in/othmanerouyani/)
 - **GitHub:** [oth45](https://github.com/oth45)
 
 ---
@@ -47,7 +47,7 @@ I typically respond to messages within 24-48 hours. For urgent matters, please i
 
 ## Location
 
-Currently based in: *(Your location)*
+Currently based in: **Warsaw, Poland**
 
 Open to: Remote work, On-site opportunities
 
