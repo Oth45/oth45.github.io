@@ -1,0 +1,36 @@
+# Jekyll Configuration for oth45's Portfolio
+title: "oth45 - Computer Engineering Portfolio"
+description: "Personal portfolio website showcasing projects and skills as a Computer Engineering student"
+author: oth45
+email: ""
+
+# GitHub Pages URL
+url: "https://oth45.github.io"
+baseurl: ""
+
+# Theme - using Minima (clean, professional look)
+theme: minima
+
+# Navigation links
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - skills.md
+  - contact.md
+
+# Social links (optional - uncomment and fill in if desired)
+# twitter_username: your_twitter
+# github_username: oth45
+# linkedin_username: your_linkedin
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
